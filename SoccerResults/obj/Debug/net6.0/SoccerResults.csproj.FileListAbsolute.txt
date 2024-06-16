@@ -1,0 +1,51 @@
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/bin/Debug/net6.0/SoccerResults
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/bin/Debug/net6.0/SoccerResults.deps.json
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/bin/Debug/net6.0/SoccerResults.runtimeconfig.json
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/bin/Debug/net6.0/SoccerResults.dll
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/bin/Debug/net6.0/SoccerResults.pdb
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/bin/Debug/net6.0/ConsoleTables.dll
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/obj/Debug/net6.0/SoccerResults.csproj.AssemblyReference.cache
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/obj/Debug/net6.0/SoccerResults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/obj/Debug/net6.0/SoccerResults.AssemblyInfoInputs.cache
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/obj/Debug/net6.0/SoccerResults.AssemblyInfo.cs
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/obj/Debug/net6.0/SoccerResults.csproj.CoreCompileInputs.cache
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/obj/Debug/net6.0/SoccerRe.20B26BAC.Up2Date
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/obj/Debug/net6.0/SoccerResults.dll
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/obj/Debug/net6.0/refint/SoccerResults.dll
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/obj/Debug/net6.0/SoccerResults.pdb
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/obj/Debug/net6.0/SoccerResults.genruntimeconfig.cache
+/Users/inframonwyss/Desktop/SoccerTable Kopie 2/SoccerResults/obj/Debug/net6.0/ref/SoccerResults.dll
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/bin/Debug/net6.0/SoccerResults
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/bin/Debug/net6.0/SoccerResults.deps.json
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/bin/Debug/net6.0/SoccerResults.runtimeconfig.json
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/bin/Debug/net6.0/SoccerResults.dll
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/bin/Debug/net6.0/SoccerResults.pdb
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/bin/Debug/net6.0/ConsoleTables.dll
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/obj/Debug/net6.0/SoccerResults.csproj.AssemblyReference.cache
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/obj/Debug/net6.0/SoccerResults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/obj/Debug/net6.0/SoccerResults.AssemblyInfoInputs.cache
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/obj/Debug/net6.0/SoccerResults.AssemblyInfo.cs
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/obj/Debug/net6.0/SoccerResults.csproj.CoreCompileInputs.cache
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/obj/Debug/net6.0/SoccerRe.20B26BAC.Up2Date
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/obj/Debug/net6.0/SoccerResults.dll
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/obj/Debug/net6.0/refint/SoccerResults.dll
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/obj/Debug/net6.0/SoccerResults.pdb
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/obj/Debug/net6.0/SoccerResults.genruntimeconfig.cache
+/Users/inframonwyss/Desktop/SoccerTable Kopie 3/SoccerResults/obj/Debug/net6.0/ref/SoccerResults.dll
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/bin/Debug/net6.0/SoccerResults
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/bin/Debug/net6.0/SoccerResults.deps.json
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/bin/Debug/net6.0/SoccerResults.runtimeconfig.json
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/bin/Debug/net6.0/SoccerResults.dll
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/bin/Debug/net6.0/SoccerResults.pdb
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/bin/Debug/net6.0/ConsoleTables.dll
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/obj/Debug/net6.0/SoccerResults.csproj.AssemblyReference.cache
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/obj/Debug/net6.0/SoccerResults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/obj/Debug/net6.0/SoccerResults.AssemblyInfoInputs.cache
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/obj/Debug/net6.0/SoccerResults.AssemblyInfo.cs
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/obj/Debug/net6.0/SoccerResults.csproj.CoreCompileInputs.cache
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/obj/Debug/net6.0/SoccerRe.20B26BAC.Up2Date
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/obj/Debug/net6.0/SoccerResults.dll
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/obj/Debug/net6.0/refint/SoccerResults.dll
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/obj/Debug/net6.0/SoccerResults.pdb
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/obj/Debug/net6.0/SoccerResults.genruntimeconfig.cache
+/Users/inframonwyss/Desktop/M426_Projekt_SoccerTable_INF22dl_Rivella/SoccerResults/obj/Debug/net6.0/ref/SoccerResults.dll

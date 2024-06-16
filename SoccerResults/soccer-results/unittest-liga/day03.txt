@@ -1,0 +1,2 @@
+TeamA 1:1 TeamD
+TeamB 2:2 TeamC
